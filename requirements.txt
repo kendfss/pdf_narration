@@ -1,0 +1,15 @@
+PyPDF2
+dill
+librosa
+m3ta
+numpy
+osrandom
+pdfreader
+pyaudio
+pydub
+pyo
+pyperclip
+pyttsx3
+setuptools
+vosk
+vosking
